@@ -1,5 +1,5 @@
 # hello-world
 
 
-whrite somerthing aboutyourself XXXXX
+write somerthing aboutyourself XDDDDD
 
